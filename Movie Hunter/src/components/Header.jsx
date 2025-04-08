@@ -13,7 +13,7 @@ export const Header = () => {
     <>
     <nav className="navbar navbar-expand-md fixed-top bg-primary navbar-dark">
       <div className="container-fluid">
-        <NavLink to="/" className="navbar-brand"><i className="bi bi-film"></i> Movie Hunter</NavLink>
+        <NavLink to="/" className="navbar-brand"><i className="bi bi-film"></i> Naveen's Movie Hunter</NavLink>
         
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu">
           <span className="navbar-toggler-icon"></span>
